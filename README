@@ -1,0 +1,7 @@
+This is a set of tools/libraries for complete simulation of stochastic computing sistems.
+there is a initial test file named stochastic.c.
+
+Type make to compile, and ./stochastic to run.
+
+
+
